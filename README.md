@@ -1,4 +1,4 @@
-## Hi there 👋
+## i am rehu 👋 
 
 # 💫 About Me:
 Hi, I'm Rehan 👋<br><br>🚀 Student Developer  <br>💻 Python | HTML | CSS | JavaScript  <br>🌱 Currently learning Web Development  <br>⚡ Building projects and exploring new technologies
