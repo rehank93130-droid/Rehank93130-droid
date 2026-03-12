@@ -18,12 +18,9 @@ Hi, I'm Rehan 👋<br><br>🚀 Student Developer  <br>💻 Python | HTML | CSS |
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Rehank93130-droid&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
+ 
 ---
-[![](https://visitcount.itsvg.in/api?id=Rehank93130-droid&icon=0&color=0)](https://visitcount.itsvg.in)
-![GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=rehank93130-droid&theme=github)
+ 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 <!--
