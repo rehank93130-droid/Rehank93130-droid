@@ -25,6 +25,7 @@ Hi, I'm Rehan 👋<br><br>🚀 Student Developer  <br>💻 Python | HTML | CSS |
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Rehank93130-droid&icon=0&color=0)](https://visitcount.itsvg.in)
+![GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=rehank93130-droid&theme=github)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 <!--
